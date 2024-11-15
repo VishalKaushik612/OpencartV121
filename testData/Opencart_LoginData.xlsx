@@ -1,0 +1,6 @@
+username	password	res
+vishalkaushik@gmail.com	vishal123	Valid
+vishalkaushik1@gmail.com	vishal12323	Invalid
+vishalkaushik2@gmail.com	vishal12399	Invalid
+vishalkaushik3@gmail.com	vishal12312	Invalid
+vishalkaushik4@gmail.com	vishal12312	Valid
